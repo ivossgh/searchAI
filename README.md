@@ -35,7 +35,7 @@ A estratégia é organizada em 4 camadas complementares:
 
 | Camada | Objetivo |
 |---|---|
-| 1. Google Meu Negócio | Presença local e sinais de confiança básicos, sem custo de dev |
+| 1. Google Meu Negócio | Presença local e sinais de confiança básicos|
 | 2. Conteúdo citável | Páginas-pilar técnicas, estruturadas para responder perguntas reais do público-alvo |
 | 3. Sinais técnicos de confiança | Schema markup (JSON-LD), estrutura semântica, autoria técnica visível (E-E-A-T) |
 | 4. Distribuição/citação | Monitoramento de aparição em buscadores e IAs, ajuste iterativo |
@@ -48,7 +48,7 @@ As camadas 2 e 3 não são sequenciais — a Camada 3 (schema) é embutida no te
 - **Formulário de contato:** client-side, sem backend — link direto para WhatsApp via querystring.
 - **Ferramenta de cotação (calculadora):** API em Java/Spring Boot — isolada como serviço, entra em fase 2 (ver [seção específica](#ferramenta-de-cotação-calculadora)).
 
-A escolha por uma arquitetura híbrida (site estático + API isolada) evita usar uma stack pesada para servir conteúdo estático, e concentra a lógica de negócio real (regras de precificação) em Java, alinhado ao objetivo de aprofundamento técnico do desenvolvedor responsável pelo projeto.
+A escolha por uma arquitetura híbrida (site estático + API isolada) evita usar uma stack pesada para servir conteúdo estático, e concentra a lógica de negócio real (regras de precificação) em Java, alinhado aos meus objetivos de aprofundamento técnico em java.
 
 ### Estratégia de conteúdo
 
