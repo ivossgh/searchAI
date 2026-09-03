@@ -1,4 +1,4 @@
-[![Card do Meu Repositório](https://vercel.app)](https://github.com/ivossgh/searchAI)
+
 
 # Site Institucional + Blog — Segurança do Trabalho (SST)
 
