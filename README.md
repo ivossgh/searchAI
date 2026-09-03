@@ -1,4 +1,5 @@
 # Site Institucional + Blog — Segurança do Trabalho (SST)
+[![Card do Meu Repositório](https://vercel.app)](https://github.com/ivossgh/searchAI)
 
 > **Status:** 🟡 Em planejamento / etapa inicial — arquitetura e escopo definidos, execução ainda não iniciada.
 
